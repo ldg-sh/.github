@@ -1,1 +1,1 @@
-<img width="3840" height="1500" alt="ledger-banner" src="https://github.com/user-attachments/assets/663b3f8a-4d05-4b8b-8634-039651dc87e0" />
+<img width="3840" height="1500" alt="ledger-banner" src="https://github.com/user-attachments/assets/ddf5441a-d99c-4afd-b1f3-64e90fbadd1f" />
